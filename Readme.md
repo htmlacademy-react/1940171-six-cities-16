@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Глеб Лузин](https://up.htmlacademy.ru/react/16/user/1940171).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Зуев] (https://htmlacademy.ru/profile/ekzaton).
 
 ---
 
