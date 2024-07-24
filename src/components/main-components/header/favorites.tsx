@@ -1,7 +1,7 @@
 import {Link} from 'react-router-dom';
 import {AppRoute} from '../../../utils/const';
 
-function Login(): JSX.Element {
+function Favorites(): JSX.Element {
   return (
     <nav className="header__nav">
       <ul className="header__nav-list">
@@ -23,4 +23,4 @@ function Login(): JSX.Element {
   );
 }
 
-export default Login;
+export default Favorites;

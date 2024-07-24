@@ -1,5 +1,5 @@
 import Logo from '../../components/main-components/header/logo';
-import Login from '../../components/main-components/header/login';
+import Favorites from '../../components/main-components/header/favorites';
 import { Helmet } from 'react-helmet-async';
 
 function OfferPage(): JSX.Element {
@@ -12,7 +12,7 @@ function OfferPage(): JSX.Element {
         <div className="container">
           <div className="header__wrapper">
             <Logo />
-            <Login />
+            <Favorites />
           </div>
         </div>
       </header>

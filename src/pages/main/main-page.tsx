@@ -2,7 +2,7 @@ import Card from '../../components/main-components/card/card';
 import Map from '../../components/main-components/map/map';
 import LocationsList from '../../components/main-components/location/locations-list';
 import Logo from '../../components/main-components/header/logo';
-import Login from '../../components/main-components/header/login';
+import Favorites from '../../components/main-components/header/favorites';
 import { Helmet } from 'react-helmet-async';
 
 type MainProps = {
@@ -23,7 +23,7 @@ function MainPage({ cardCount }: MainProps): JSX.Element {
         <div className="container">
           <div className="header__wrapper">
             <Logo />
-            <Login />
+            <Favorites />
           </div>
         </div>
       </header>
